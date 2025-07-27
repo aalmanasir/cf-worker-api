@@ -1,0 +1,4 @@
+name = "cf-worker-api"
+main = "index.js"
+compatibility_date = "2025-07-27"
+workers_dev = true
